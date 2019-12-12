@@ -9,8 +9,12 @@ Launch the Binder and run the script day_zero.ipynb to interact with the data in
 
 _preliminary results_
 
-### Observed and fited ndvi
+### Observed and fited ndvi  
+Here the orange thick line is the mean fitted ndvi trend to random pixels, and the red thick  line is the mean observed ndvi. Thin lines are the observed ndvi for individual pixels  
+
 ![Observed and fited ndvi](chart_ndvi.png)
 
-### NDVI anomalies
+### NDVI anomalies  
+The thick blue lines is the mean ndvi anomaly (obs - expected) for up to 25 random pixels, and thin lines show eachh indivudal pixel ndvi anomaly
+
 ![NDVI anomalies](chart_anom.png)
