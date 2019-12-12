@@ -178,4 +178,5 @@ dependencies:
   - pip:
     - altair==4.0.0
     - gpdvega==0.1.1rc1
+    - wget==3.2
 prefix: /anaconda3/envs/dayzero
